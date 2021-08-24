@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/blacha370/cards-api.git
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/blacha370/cards-frontend.git
+	branch = main
